@@ -14,3 +14,5 @@ Therefore, consider the following steps to make it work:
 4. Execute the jupyter notebook "UI.ipynb" taking the generated change detection files as input. The last cell in the notebook shows the UI.
 
 
+Below are additional views of the change detection cube:
+
