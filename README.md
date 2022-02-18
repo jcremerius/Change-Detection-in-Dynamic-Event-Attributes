@@ -16,8 +16,16 @@ Therefore, consider the following steps to make it work:
 
 Below are additional views of the change detection cube:
 
-We further investigated, if we can detect changes in different process variants. For that, we looked, together with the medical expert, in the differences between patients visiting different ICU's (Intensive Care Units). In the picture below, one can observe the value changes of Creatinine, which is a major marker for kidney disease. Whereas the RBC values are high for non-cardiac related ICU's, the RBC values are much lower for patients visiting the cardiac related ICU's (variants 4 and 7). The variants can be seen in the variants selection box, which are enumerated according to their order (0-10). We discussed, that patients in the cardiac ICU tend to be treated more regarding their issues with the heart, instead of their kidney. 
-To check that, we looked into another laboratory value "Hematocrit"
+We further investigated, if we can detect changes in different process variants. For that, we looked, together with the medical expert, in the differences between patients visiting different ICU's (Intensive Care Units). In the picture below, one can observe the value changes of Creatinine, which is a major marker for kidney disease. Whereas the RBC values are high for non-cardiac related ICU's, the RBC values are much lower for patients visiting the cardiac related ICU's (variants 4 and 7). The variants can be seen in the variants selection box, which are enumerated according to their order (0-10). We discussed, that patients in the cardiac ICU tend to be treated more regarding their issues with the heart, instead of their kidney. Hence, the creatinine is not changing as much as for the other patient.
+
 
 
 ![alt text](https://github.com/jcremerius/Change-Detection-in-Dynamic-Event-Attributes/blob/main/Evaluation/Creatinine.PNG?raw=true)
+
+To further investiagte that, we looked into another laboratory value "Hematocrit"
+
+![alt text](https://github.com/jcremerius/Change-Detection-in-Dynamic-Event-Attributes/blob/main/Evaluation/Hematocrit.PNG?raw=true)
+
+
+
+![alt text](https://github.com/jcremerius/Change-Detection-in-Dynamic-Event-Attributes/blob/main/Evaluation/PM.png?raw=true)
