@@ -26,6 +26,6 @@ To further investiagte that, we looked into another laboratory value "Hematocrit
 
 ![alt text](https://github.com/jcremerius/Change-Detection-in-Dynamic-Event-Attributes/blob/main/Evaluation/Hematocrit.PNG?raw=true)
 
-
+We observe a higher confidence of change in the form of the RBC value for Hematocrit in Patients visiting Cardiac ICU, whereas in patients visiting the other ICU's, the RBC is higher in their Creatinine development.
 
 ![alt text](https://github.com/jcremerius/Change-Detection-in-Dynamic-Event-Attributes/blob/main/Evaluation/PM.png?raw=true)
