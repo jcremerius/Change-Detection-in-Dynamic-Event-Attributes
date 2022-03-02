@@ -10,7 +10,7 @@ Therefore, consider the following steps to make it work:
 
 1. Generate the event log by executing the jupyter notebook "Event_Log_Generation.ipynb".
 2. Execute the jupyter notebook "Change_Detection.ipynb" taking the generated event log as its input.
-3. Use the modified pm4py package provided by this repository. 
+3. Use the modified pm4py package provided by this repository. Modified files within the dfg folder: visualizer.py, frequency.py 
 4. Execute the jupyter notebook "UI.ipynb" taking the generated change detection files as input. The last cell in the notebook shows the UI.
 
 
